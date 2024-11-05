@@ -2,8 +2,8 @@
 [![license](https://img.shields.io/github/license/MuGemSt/QPoisson.svg)](https://github.com/MuGemSt/QPoisson/blob/main/LICENSE)
 [![Build status](https://ci.appveyor.com/api/projects/status/832yt4vq8lw6hgjr?svg=true)](https://ci.appveyor.com/project/MuGemSt/qpoisson)
 [![GitHub release](https://img.shields.io/github/release/MuGemSt/QPoisson.svg)](https://github.com/MuGemSt/QPoisson/releases/latest)
-[![](https://img.shields.io/badge/bilibili-BV1zd4y1J7FG-fc8bab.svg)](https://www.bilibili.com/video/BV1zd4y1J7FG)
-[![](https://img.shields.io/badge/cnblog-17179947-075db3.svg)](https://www.cnblogs.com/MuGem/p/17179947.html)
+[![bilibili](https://img.shields.io/badge/bilibili-BV1zd4y1J7FG-fc8bab.svg)](https://www.bilibili.com/video/BV1zd4y1J7FG)
+[![cnblogs](https://img.shields.io/badge/cnblog-17179947-075db3.svg)](https://www.cnblogs.com/MuGem/p/17179947.html)
 
 Implement Poisson blending algorithm in a simple photo editor with Qt Frame on Windows.
 
@@ -31,6 +31,5 @@ The core method for the blending process comes from [_Poisson Image Editing_](ht
 b[i] = div ( G( Source(x,y) ) ) - Neighbor(target i) ;  // i=1..N
 ```
 
-## License
-![](https://www.gnu.org/software/mit-scheme/lambda.png)<br>
-[Flat icon set](https://github.com/MuGemSt/QPoisson/tree/main/QPoisson/Resources) is from [easyicon](https://www.easyicon.cc); All source codes are licensed under [MIT License](https://opensource.org/licenses/MIT). If you want to make any modification on these source codes while keeping new codes unprotected by MIT License, please contact me for a sublicense instead.
+## Thanks
+ - [Easyicon](https://www.easyicon.cc)
