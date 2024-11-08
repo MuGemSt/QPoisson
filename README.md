@@ -2,8 +2,7 @@
 [![license](https://img.shields.io/github/license/MuGemSt/QPoisson.svg)](https://github.com/MuGemSt/QPoisson/blob/main/LICENSE)
 [![Build status](https://ci.appveyor.com/api/projects/status/832yt4vq8lw6hgjr?svg=true)](https://ci.appveyor.com/project/MuGemSt/qpoisson)
 [![GitHub release](https://img.shields.io/github/release/MuGemSt/QPoisson.svg)](https://github.com/MuGemSt/QPoisson/releases/latest)
-[![bilibili](https://img.shields.io/badge/bilibili-BV1zd4y1J7FG-fc8bab.svg)](https://www.bilibili.com/video/BV1zd4y1J7FG)
-[![cnblogs](https://img.shields.io/badge/cnblog-17179947-075db3.svg)](https://www.cnblogs.com/MuGem/p/17179947.html)
+[![bilibili](https://img.shields.io/badge/bilibili-BV1aMDZYnEtN-fc8bab.svg)](https://www.bilibili.com/video/BV1aMDZYnEtN)
 
 Implement Poisson blending algorithm in a simple photo editor with Qt Frame on Windows.
 
