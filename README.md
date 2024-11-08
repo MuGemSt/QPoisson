@@ -19,7 +19,7 @@ cd QPoisson
 ```
 
 ## Environment installation, configuration & code debugging, release
-Please refer to this [blog post](https://www.cnblogs.com/MuGemSt/p/17017063.html) for this section.
+Please refer to this [blog post](https://www.cnblogs.com/MuGem/p/17017063.html) for this section.
 
 ## Dependency library
 [Eigen](http://eigen.tuxfamily.org) is a C++ library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
